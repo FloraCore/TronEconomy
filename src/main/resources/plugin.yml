@@ -1,0 +1,6 @@
+name: TronEconomy
+version: '${version}'
+main: cn.watchdog.troneconomy.TronEconomy
+authors: [ xLikeWATCHDOG ]
+description: TronEconomy
+website: https://github.com/FloraCore/TronEconomy
